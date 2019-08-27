@@ -1,0 +1,70 @@
+table.toprow
+  {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+select
+  {
+    padding: 10px 20px;
+    margin: 8px 8px 20px 20px;
+    width: 200px;
+    height: 35px;
+  }
+
+table 
+  {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-collapse: collapse;
+    width: 100%;
+   }
+
+td
+  {
+    font-size: 12px;
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+
+th 
+  {
+    padding: 1px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: light grey;
+  } 
+
+tr:hover {background-color:#f5f5f5;}
+
+ input 
+    {
+       width: 40%;
+       padding: 8px 20px;
+       margin: 8px 8px 10px 10px;
+       display: inline-block;
+       border-radius: 4px;
+       float: right;
+    }
+
+  .favrow {
+      background-color: green;
+    }
+
+button 
+   {
+    padding: 8px 20px;
+    margin: 6px 6px 10px 10px;
+    }
+
+/* Style the header */
+  .header 
+   {
+     background-color: #f1f1f1;
+     text-align: center;
+   }
