@@ -10,3 +10,5 @@ This project is a bank search application which includes -
 6. Varying page size based on user
 
 All the above was developed using - HTML, CSS and JavaScript
+
+Click to check out the webpage here - https://jyothimadhav.github.io/bnk-app/
